@@ -1,7 +1,5 @@
 ## Olá, Eu sou o Erick Batista 👋😁
 
-
-- 🔭 Hoje trabalho com infraestrutura, porém, buscando ir para área de desenvolvimento 🤞
 - 🌱 Estudando Spring Boot
 
 <div>
