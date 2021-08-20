@@ -1,6 +1,6 @@
-## Olá, Eu sou o Erick Batista 👋😁
+## Hi, I'm Erick Batista 👋😁
 
-- 🌱 Estudando Spring Boot
+- 🌱 Studying Spring
 
 <div>
 <a href="https://github.com/batistaerick">
