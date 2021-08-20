@@ -1,5 +1,7 @@
 ## Hi, I'm Erick Batista 👋😁
 
+- 🤓 Academic and personal work with Java programming language (JDBC, JPA, Hibernate and Spring), Databases (MySQL, PostgreSQL, MongoDB) and Git & GitHub versioning.
+- 👷🏻‍♂️ I have experience in IT infrastructure, installing and configuring software and hardware on servers and client machines, answering calls with the GLPI system, hardware and software inventory, Intranet and Internet.
 - 🌱 Studying Spring
 
 <div>
