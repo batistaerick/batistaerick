@@ -5,6 +5,7 @@
 🤓 - Knowledge in Java programming language (Maven and Spring Framework);
       Rest API and Microservices;
       SQL and NoSQL database (MySQL, PostgreSQL and MongoDB);
+      Docker;
       Git & GitHub versioning.
 
 👷 - I have experience in IT infrastructure, installing and configuring software and hardware on servers and client machines, answering calls with the GLPI system, hardware and software inventory, Intranet and Internet.
