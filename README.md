@@ -2,7 +2,7 @@
 
 👷🏻‍ - <b>Currently working as a Java Developer.</b>
 
-🤓 - Knowledge in Java programming language (Maven and Spring Framework);
+🤓 - Knowledge and experience in Java programming language (Maven and Spring Framework);
       Rest API and Microservices;
       SQL and NoSQL database (MySQL, PostgreSQL and MongoDB);
       Docker;
