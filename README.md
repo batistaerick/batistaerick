@@ -1,37 +1,53 @@
-## Hi, I'm Erick Batista 👋😁
+## Hi, I'm Erick 👋😁
+
+<div>
+      <a href="https://www.linkedin.com/in/erick-batista-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+</div>
+<p></p>
 
 👷🏻‍ - <b>Currently working as a Java Developer.</b>
 
-🤓 - Knowledge and experience in Java programming language (Maven and Spring Framework);
-      Rest API and Microservices;
-      SQL and NoSQL database (MySQL, PostgreSQL and MongoDB);
-      Docker;
-      Git & GitHub versioning.
-
-👷 - I have experience in IT infrastructure, installing and configuring software and hardware on servers and client machines, answering calls with the GLPI system, hardware and software inventory, Intranet and Internet.
+🤓 - Experience and knowledge with Java programming language (Maven and Spring Framework), Rest and Microservices APIs, Relational and non-relational databases(SQL and NoSQL), Docker, Git, GitHub, Azure DevOps, Python programming language and Flutter.
 
 <div>
-<a href="https://github.com/batistaerick">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=batistaerick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batistaerick&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-<div style="display: inline_block">
+      <b>Backend:</b>
       <br>
-            <img align="center" alt="Erick-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-            <img align="center" alt="Erick-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-            <img align="center" alt="Erick-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-            <img align="center" alt="Erick-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            <img align="center" alt="Erick-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            <img align="center" alt="Erick-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-            <img align="center" alt="Erick-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+            <img align="center" alt="Spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+            <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+            <img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+            <p></p>
+      </br>
+      <b>Frontend:</b>
+      <br>
+            <img align="center" alt="Dart" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
+            <img align="center" alt="Flutter" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+            <img align="center" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+            <img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+            <img align="center" alt="JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            <p></p>
+      </br>
+      <b>Databases:</b>
+      <br>
+            <img align="center" alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
+            <img align="center" alt="SQLServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+            <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+            <p></p>
+      </br>
+      <b>Infrastructure:</b>
+      <br>
+            <img align="center" alt="Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+            <img align="center" alt="Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
+            <img align="center" alt="Docker" height="45" width="45" src="https://img.icons8.com/color/344/amazon-web-services.png">
+            <img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+            <p></p>
       </br>
 </div>
 
 <p></p>
-
 <div>
-  <a href="https://www.linkedin.com/in/erick-batista-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+      <a href="https://github.com/batistaerick">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batistaerick&layout=compact&langs_count=16&theme=dracula"/>    
+      <img src="https://github-readme-stats.vercel.app/api?username=batistaerick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <p></p>
