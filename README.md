@@ -2,15 +2,28 @@
 
 <a href="https://www.linkedin.com/in/erick-batista-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-👷🏻‍ - <b>Currently working as a Java Developer.</b>
+👷🏻‍ <b>Currently working as a Software Developer.</b>
 
-🤓 - Experience and knowledge with Java programming language (Maven and Spring Framework), Rest and Microservices APIs, Relational and non-relational databases(SQL and NoSQL), Docker, Git, GitHub, Azure DevOps, Python programming language and Flutter.
+🤓 Experiences:
+<ul>
+  <li>Languages: Java, JavaScript and TypeScript.</li>
+  <li>Frameworks: Spring Boot and React.</li>
+  <li>Databases (SQL and NoSQL databases): PostgreSQL, SQL Server and MongoDB.</li>
+  <li>Deployment: Git, GitLab, Azure DevOps (CI/CD) and OpenShift (Red Hat).</li>
+  <li>Rest APIs, monolithic applications and microservices.</li>
+</ul>
+
+🤓 Extra Knowledge:
+<ul>
+  <li>Front-end: HTML and CSS.</li>
+  <li>Deployment: Docker, Docker Swarm, Kubernetes, GitHub and Linux.</li>
+</ul>
 
 <b>Backend + Frontend:</b>
 <p><img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-<img align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-<img align="center" alt="JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" alt="Spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+<img align="center" alt="JS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
 <img align="center" alt="HTML" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img align="center" alt="CSS" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"></p>
 
@@ -21,9 +34,10 @@
 
 <b>Infrastructure:</b>
 <p><img align="center" alt="Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-<img align="center" alt="Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-<img align="center" alt="Docker" height="45" width="45" src="https://img.icons8.com/color/344/amazon-web-services.png">
-<img align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg"></p>
+<img align="center" alt="Kubernetes" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
+<img align="center" alt="AWS" height="45" width="45" src="https://img.icons8.com/color/344/amazon-web-services.png">
+<img align="center" alt="Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
+<img align="center" alt="RedHat" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg"></p>
 
 <p><img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batistaerick&layout=compact&langs_count=16&theme=dracula"/>    
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=batistaerick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></p>
