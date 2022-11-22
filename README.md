@@ -3,22 +3,24 @@
 <a href="https://www.linkedin.com/in/erick-batista-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 👷🏻‍ <b>
-    Currently working as a Software Developer.
+    Currently working as a Software Engineer.
    </b>
 
 🤓 Experiences:
 <ul>
   <li>Languages: Java, JavaScript and TypeScript.</li>
   <li>Frameworks: Spring Boot and Next.js (using the React library).</li>
-  <li>Databases (SQL and NoSQL databases): PostgreSQL, SQL Server and MongoDB.</li>
-  <li>Deployment: Git, GitLab, Azure DevOps (CI/CD) and OpenShift (Red Hat).</li>
-  <li>Rest APIs, monolithic applications and microservices.</li>
+  <li>Tests: JUnit, Mockito and MockMvc for Java and Jest for JavaScript/Typescript.</li>
+  <li>Databases (SQL and NoSQL): PostgreSQL, SQL Server and MongoDB.</li>
+  <li>Version Control and CI/CD: Git, GitLab and Azure DevOps.</li>
+  <li>Deployment: AWS and OpenShift Kubernetes Engine (Red Hat).</li>
+  <li>Rest APIs, Graphql, monolithic applications and microservices.</li>
 </ul>
 
 🤓 Extra Knowledge:
 <ul>
   <li>Front-end: HTML and CSS.</li>
-  <li>Deployment: Docker, Docker Swarm, Kubernetes, GitHub and Linux.</li>
+  <li>Deployment: Docker, Kubernetes, GitHub and Linux.</li>
 </ul>
 
 <b>
