@@ -3,7 +3,7 @@ name: Snake Generation
 on:
   # execute every 12 hours
   schedule:
-    - cron: "30 8,20 * * *"
+    - cron: "0 11,23 * * *"
   workflow_dispatch:
   push:
     branches:
