@@ -3,7 +3,7 @@ name: Snake Generation
 on:
   # execute every 12 hours
   schedule:
-    - cron: "0 12,00 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -14,7 +14,7 @@ jobs:
     name: Snake Animation
     runs-on: ubuntu/latest
     steps:
-      - uses: Platane/snk@v2
+      - uses: Platane/snk/svg-only@v2
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
