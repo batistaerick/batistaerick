@@ -1,31 +1,27 @@
-## Hi there, I'm Erick 👋😁
+![](/obiwan-hellothere.gif)
 
-<a href="https://www.linkedin.com/in/erick-batista-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+### 👷🏻‍ <b> I'm Erick and I'm currently working as a Software Engineer. </b>
 
-👷🏻‍ <b>
-    Currently working as a Software Engineer.
-   </b>
+<a href="https://www.linkedin.com/in/erick-batista-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-🤓 Experiences:
-<ul>
-  <li>Languages: Java, JavaScript and TypeScript.</li>
-  <li>Frameworks: Spring Boot and Next.js (using the React library).</li>
-  <li>Tests: JUnit, Mockito and MockMvc for Java and Jest for JavaScript/Typescript.</li>
-  <li>Databases (SQL and NoSQL): PostgreSQL, SQL Server and MongoDB.</li>
-  <li>Version Control and CI/CD: Git, GitLab and Azure DevOps.</li>
-  <li>Deployment: AWS and OpenShift Kubernetes Engine (Red Hat).</li>
-  <li>Rest APIs, Graphql, monolithic applications and microservices.</li>
-</ul>
+### 🤓 Experiences:
+```
+- Languages: Java, JavaScript and TypeScript.
+- Frameworks: Spring Boot and Next.js (using the React library).
+- Tests: JUnit, Mockito and MockMvc for Java and Jest for JavaScript/Typescript.
+- Databases (SQL and NoSQL): PostgreSQL, SQL Server and MongoDB.
+- Version Control and CI/CD: Git, GitLab and Azure DevOps.
+- Deployment: AWS and OpenShift Kubernetes Engine (Red Hat).
+- Rest APIs, Graphql, monolithic applications and microservices.
+```
 
-🤓 Extra Knowledge:
-<ul>
-  <li>Front-end: HTML and CSS.</li>
-  <li>Deployment: Docker, Kubernetes, GitHub and Linux.</li>
-</ul>
+### 🤓 Extra Knowledge:
+```
+- Front-end: HTML and CSS.
+- Deployment: Docker, GitHub and Linux.
+```
 
-<b>
-  Backend + Frontend:
-</b>
+### <b> Backend + Frontend: </b>
 <p>
   <img align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Spring" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
@@ -38,9 +34,7 @@
 </p>
 <br>
 
-<b>
-  Databases:
-</b>
+### <b> Databases: </b>
 <p>
   <img align="center" alt="PostgreSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg">
   <img align="center" alt="SQLServer" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
@@ -48,9 +42,7 @@
 </p>
 <br>
 
-<b>
-  Version Control / Deployment:
-</b>
+### <b> Version Control / Deployment: </b>
 <p>
   <img align="center" alt="Git" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="GitLab" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg">
@@ -58,7 +50,6 @@
   <img align="center" alt="RedHat" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-plain-wordmark.svg">
   <img align="center" alt="Azure" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg">
   <img align="center" alt="Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Kubernetes" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
 </p>
 <br>
 
