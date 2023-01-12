@@ -1,10 +1,10 @@
 ![](/obiwan-hellothere.gif)
 
-### 👷🏻‍ I'm Erick and I'm currently working as a Software Engineer.
-
 <a href="https://www.linkedin.com/in/erick-batista-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### 🤓 Experiences:
+### 🧔🏻‍♂️ I'm Erick and currently working as a Fullstack Software Developer.
+
+### 👨‍💻 Experiences | Knowledges:
 ```
 Back-end: Java and Node.js.
 Front-end: HTML, CSS and JavaScript/TypeScript.
@@ -15,7 +15,6 @@ Version Control and CI/CD: Git, GitHub, GitLab and Azure DevOps.
 Deployment: AWS, Linux and Docker.
 Rest APIs, Graphql, monolithic applications and microservices.
 ```
-<br>
 
 <div>
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=batistaerick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
