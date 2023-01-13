@@ -2,7 +2,7 @@
 
 <a href="https://www.linkedin.com/in/erick-batista-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-### 🧔🏻‍♂️ I'm Erick and currently working as a Fullstack Software Developer.
+### 🧔🏻‍♂️ I'm Erick and currently working as a Fullstack Developer.
 
 ### 👨‍💻 Experiences | Knowledges:
 ```
