@@ -16,10 +16,6 @@ Deployment: AWS, Linux and Docker.
 Rest APIs, Graphql, monolithic applications and microservices.
 ```
 
-<div>
-  <a href="https://github.com/batistaerick?tab=repositories">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=batistaerick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batistaerick&layout=compact&langs_count=16&theme=dracula"/>  
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=batistaerick&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batistaerick&hide=Html&theme=nord_dark)
 
 ![](https://github.com/batistaerick/batistaerick/blob/output/github-contribution-grid-snake.svg)
