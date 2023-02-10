@@ -15,7 +15,9 @@ Version Control and CI/CD: Git, GitHub, GitLab and Azure DevOps.
 Deployment: AWS, Linux and Docker.
 Rest APIs, Graphql, monolithic applications and microservices.
 ```
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=batistaerick&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=batistaerick&hide=Html&theme=nord_dark)
+<a href="https://github.com/batistaerick">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=batistaerick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=batistaerick&layout=compact&langs_count=7&theme=dracula"/>
+</a>
 
 ![](https://github.com/batistaerick/batistaerick/blob/output/github-contribution-grid-snake.svg)
