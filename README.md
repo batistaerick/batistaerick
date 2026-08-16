@@ -1,21 +1,45 @@
-![](/obiwan-hellothere.gif)
+<p align="center">
+  <img src="/obiwan-hellothere.gif" alt="Hello there!" width="500"/>
+</p>
 
-<a href="https://www.linkedin.com/in/erick-batista-prado" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<h1 align="center">Hey, I'm Erick 👋</h1>
 
-### 🧔🏻‍♂️ I'm Erick and currently working as a Fullstack Developer.
+<p align="center">
+  Senior Software Engineer • Fullstack Developer • Cloud & Distributed Systems
+</p>
 
-### 👨‍💻 Experiences | Knowledges:
-```
-Back-end: Java and Node.js.
-Front-end: HTML, CSS and JavaScript/TypeScript.
-Frameworks: Spring Boot and Next.js (using the React library).
-Tests: JUnit, Mockito and MockMvc for Java and Jest for JavaScript/Typescript.
-Databases (SQL and NoSQL): PostgreSQL, SQL Server and MongoDB.
-Version Control and CI/CD: Git, GitHub, GitLab and Azure DevOps.
-Deployment: AWS, Linux and Docker.
-Rest APIs, Graphql, monolithic applications and microservices.
-```
-<a href="https://github.com/batistaerick">
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=batistaerick&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=batistaerick&layout=compact&langs_count=7&theme=dracula"/>
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/erick-batista-prado">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+---
+
+### 👨‍💻 About me
+
+I'm a **Senior Software Engineer from Brazil** with 10+ years of experience building production software across backend, frontend, cloud infrastructure, and distributed systems.
+
+I mainly work with **Java, Spring Boot, Node.js, TypeScript, React, Next.js, and AWS**, with a strong focus on backend architecture, APIs, microservices, developer experience, and maintainable systems.
+
+I enjoy solving engineering problems involving **system design, performance, automation, cloud architecture, and developer tooling**.
+
+---
+
+🛠️ Tech Stack
+
+Languages: Java, TypeScript, JavaScript
+
+Backend: Spring Boot, Node.js
+
+Frontend: React, Next.js
+
+Databases: PostgreSQL, MySQL, MongoDB
+
+Cloud & DevOps: AWS, Docker, Terraform, GitHub Actions
+
+APIs: REST, GraphQL
+
+Testing: JUnit, Mockito, Jest, Cypress
+
+Observability: Grafana, Datadog, CloudWatch
